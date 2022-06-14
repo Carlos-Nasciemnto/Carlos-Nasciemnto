@@ -1,6 +1,6 @@
 ###  Olá!! Eu sou o Carlos Nascimento  
 
-### <div align="center">Sou desenvolvedor freelance Full-Stack  em tempo em integral 👨‍💻 trabalhando remotamente desde 2021. 🚀</div>
+# <div align="center">Sou desenvolvedor freelance Full-Stack  em tempo em integral 👨‍💻 trabalhando remotamente desde 2021. 🚀</div>
                       
 
 - 🌱 Eu estou aprendendo Nextjs, Reactjs, Nodejs, Typescripts, RestAPIs.  
