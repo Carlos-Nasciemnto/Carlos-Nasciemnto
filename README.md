@@ -1,20 +1,12 @@
-
-
 ###  Carlos Nascimento  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
 ### <div align="center">Sou desenvolvedor freelance Full-Stack  em tempo em integral 👨‍💻 trabalhando remotamente desde 2021. 🚀</div>  
-  
 - 🌱 Eu estou aprendendo Nextjs, Reactjs, Nodejs, Typescripts, RestAPIs.  
-
 <br/>  
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -49,8 +41,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-### DevOps  
 <div align="center">  
   
 </div>
@@ -58,7 +48,6 @@
 </td></tr></table>  
 
 <br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
@@ -76,12 +65,8 @@
 </div>  
   
 <br/>  
-
-## Github Stats  
-
 ### Carlos Nascimento  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Nasciemnto&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
