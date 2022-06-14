@@ -1,12 +1,21 @@
 ###  Carlos Nascimento  
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
-### <div align="center">Sou desenvolvedor freelance Full-Stack  em tempo em integral 👨‍💻 trabalhando remotamente desde 2021. 🚀</div>  
+
+### <div align="center">Sou desenvolvedor freelance Full-Stack  em tempo em integral 👨‍💻 
+     trabalhando remotamente desde 2021. 🚀</div>  
+
+
 - 🌱 Eu estou aprendendo Nextjs, Reactjs, Nodejs, Typescripts, RestAPIs.  
 <br/>  
-## My Skill Set  
+
+
+## My Skill Set 
+
 <table><tr><td valign="top" width="33%">
+  
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -32,6 +41,7 @@
 </td><td valign="top" width="33%">
 
 ### Backend  
+  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
@@ -64,9 +74,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 <br/>  
-  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Nasciemnto&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
