@@ -1,9 +1,9 @@
-#  Olá!! Eu sou o Carlos Nascimento  
+#  Olá!! Sou o Carlos Nascimento  
 
 ### <div align="center">Sou desenvolvedor freelance Full-Stack  em tempo em integral 👨‍💻 trabalhando remotamente desde 2021. 🚀</div>
                       
 
-- 🌱 Eu estou aprendendo Nextjs, Reactjs, Nodejs, Typescripts, RestAPIs.  
+- 🌱  Nextjs, Reactjs, Nodejs, RestAPIs.  
 
 <br/>  
 
@@ -11,7 +11,7 @@
 
 <table><tr><td valign="top" width="33%">
   
-### Linguagens e ferramentas:
+### Linguagens e ferramentas utilizada:
      
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
