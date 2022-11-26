@@ -3,13 +3,13 @@
 ### <div align="center">Sou desenvolvedor freelance Full-Stack  em tempo em integral 👨‍💻 trabalhando remotamente desde 2021. 🚀</div>
                       
 
-- 🌱  Nextjs, Reactjs, Nodejs, RestAPIs.  
+- 🌱 JavaScript Nextjs, Reactjs, Nodejs.  
 
 <br/>  
 
 ## My Skill Set 
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td align="top" width="33%">
   
 ### Linguagens e ferramentas utilizada:
      
